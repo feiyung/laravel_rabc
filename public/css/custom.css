@@ -1,0 +1,67 @@
+.form-control{
+    background-color: #dfe4ec;
+    border: 1px solid #c3c9d2;
+}
+.btn-success{
+    background-color: #4acacb;
+    border-color: #44aaab;
+}
+.btn-success:hover{
+    background-color: #46bebf;
+    border-color: #34a9ab;
+}
+.btn-primary{
+    background-color: #6a8abe;
+    border-color: #5f7ba9;
+}
+.btn-primary:hover{
+    background-color: #617faf;
+    border-color: #566c90;
+}
+.btn-info{
+    background-color: #5ab6df;
+    border-color: #4e9bbd;
+}
+.btn-info:hover{
+    background-color: #56acd2;
+    border-color: #4086a5;
+}
+.btn-danger{
+    background-color: #fc8675;
+    border-color: #dc796a;
+}
+.btn-danger:hover{
+    background-color: #d87c6f;
+    border-color: #bd6f64;
+}
+
+.btn-success:hover, .btn-success:focus, .btn-success:active, .btn-success.active, .open .dropdown-toggle.btn-success{
+    background-color: #46bebf;
+    border-color: #34a9ab;
+}
+.form-horizontal .control-label{
+    margin-bottom: 5px;
+}
+.main-content{
+    background-color: #dfe4ec !important;
+}
+.nav>li {
+    border-bottom: 1px solid #202831;
+}
+.control-label span {
+    color: red !important;
+    padding-right: 6px;
+}
+.ms-container{
+    width: 100% !important;
+}
+
+.ms-container .ms-list{
+    height: auto !important;
+    max-height: 500px !important;
+    min-height: 200px !important;
+}
+
+.label-success{
+    background-color:#4acacb !important;
+}
